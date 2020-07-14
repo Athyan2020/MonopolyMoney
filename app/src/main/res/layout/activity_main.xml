@@ -52,6 +52,7 @@
         android:layout_marginBottom="150dp"
         android:autoText="false"
         android:ems="10"
+        android:hint="2"
         android:inputType="number"
         android:numeric="integer"
         app:layout_constraintBottom_toTopOf="@+id/start"
